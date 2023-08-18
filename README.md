@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krys01
-- 👀 I’m interested in Asset Management and web based solutions plus Lego
-- 🌱 I’m currently learning Mendix
+- 👀 I’m interested in Asset Management Systems, GenAI and web based solutions plus Lego
+- 🌱 I’m currently learning MindsDB
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me ... i'll tell you soon
 
